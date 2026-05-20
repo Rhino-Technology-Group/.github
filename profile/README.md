@@ -10,3 +10,21 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+(_＼ヽ
+　 ＼＼ .Λ＿Λ.
+　　 ＼(　ˇωˇ)　
+　　　 >　⌒ヽ
+　　　/ 　 へ＼
+　　 /　　/　＼＼
+　　 ﾚ　ノ　　 ヽ_つ
+　　/　/
+　 /　/|
+　(　(ヽ
+　|　|、＼
+　| 丿 ＼ ⌒)
+　| |　　) /
+`ノ ) 　 Lﾉ
+(_／
+Art credit: Unknown — thank you!
