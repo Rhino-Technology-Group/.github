@@ -11,20 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
-(_＼ヽ
-　 ＼＼ .Λ＿Λ.
-　　 ＼(　ˇωˇ)　
-　　　 >　⌒ヽ
-　　　/ 　 へ＼
-　　 /　　/　＼＼
-　　 ﾚ　ノ　　 ヽ_つ
-　　/　/
-　 /　/|
-　(　(ヽ
-　|　|、＼
-　| 丿 ＼ ⌒)
-　| |　　) /
-`ノ ) 　 Lﾉ
-(_／
-Art credit: Unknown — thank you!
+<img width="975" height="488" alt="image" src="https://github.com/user-attachments/assets/c83d25c9-9a21-4545-adea-8e943a2e6845" />
